@@ -1,0 +1,2 @@
+# FIFA-Database-Project
+It is data structures and algorithm project which has cricketer’s database on which different algorithms were applied for searching, deleting etc. It has 3 classes and categories i.e. players, nation , club. Searching can be done on different basis i.e. age, name ,rating , potential , country etc. It has unlimited functions in it. Its coding is done in C++ and data structure used is AVL trees following linked list.
